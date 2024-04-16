@@ -3,7 +3,7 @@ const DefaultResumeData = {
   position: "Developer",
   contactInformation: "+1-555-0100",
   email: "beddylea@gmail.com",
-  address: "San Francisco, CA",
+  // address: "San Francisco, CA",
   profilePicture: "",
   socialMedia: [
     {

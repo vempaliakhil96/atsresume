@@ -42,14 +42,14 @@ const PersonalInformation = ({}) => {
           value={resumeData.email}
           onChange={handleChange}
         />
-        <input
+        {/* <input
           type="text"
           placeholder="Address"
           name="address"
           className="pi"
           value={resumeData.address}
           onChange={handleChange}
-        />
+        /> */}
         <input
           type="file"
           name="profileImage"

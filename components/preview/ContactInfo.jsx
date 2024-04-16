@@ -13,11 +13,11 @@ const ContactInfo = ({ mainclass, linkclass, teldata, emaildata, addressdata, te
           href={`mailto:${emaildata}`}>
           {emailicon} {emaildata}
         </a>
-        <address
+        {/* <address
           aria-label="Address"
           className={linkclass + " not-italic"} >
           {addressicon} {addressdata}
-        </address>
+        </address> */}
       </div>
     );
   }
