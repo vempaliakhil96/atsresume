@@ -32,7 +32,7 @@ export default function Meta({ title, keywords, description }) {
                 "memberOf": "Saurav Hathi",
                 "owns": "Saurav Hathi",
                 "publishingPrinciples": ${homepage},
-                "slogan": "Get hired with an ATS-optimized resume"
+                "slogan": "Akhil Vempali"
             }`
         }
     }
